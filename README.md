@@ -28,7 +28,7 @@ A comprehensive Weather Forecast App built with Kotlin, utilizing Jetpack Compos
 ### Clone this repository:
 
 ```bash
-git clone https://github.com/yourusername/weather-forecast-app.git
+git clone https://github.com/fernandesluana/weather-forecast-app.git
 ```
 
 Or download as a zip and extract the project.
